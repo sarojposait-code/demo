@@ -1,4 +1,5 @@
 # demo
 my first repository
 <br>
-learning github
+learning git and github
+
